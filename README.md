@@ -43,3 +43,4 @@ Visitor
 Representerar en besökare i djurparken.
 Egenskaper:
 name: Besökarens namn.
+
