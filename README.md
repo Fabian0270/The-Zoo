@@ -1,4 +1,3 @@
-Djurpark
 Detta program simulerar en interaktiv djurpark där användaren kan mata, leka med och lägga till djur, samt hantera besökare. Programmet är byggt med Python och använder objektorienterad programmering (OOP) för att definiera djur och deras beteenden.
 
 Funktioner
